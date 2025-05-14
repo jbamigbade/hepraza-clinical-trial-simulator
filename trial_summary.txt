@@ -1,0 +1,15 @@
+=== Trial Summary ===
+Trial Title: Hepraza in Adults with NAFLD
+Protocol #: HPZ-2025-NAFLD-P2
+Sponsor: Hepraza Biotech, Inc.
+Total Subjects: 2
+Assessments: 0
+Adverse Events Reported: 0
+
+=== Visit Histories ===
+Visit: Screening, Day: -14, Procedures: Labs, MRI, Consent, Results: Eligible
+Visit: Baseline, Day: 0, Procedures: Randomization, Drug Dispensation, Results: Randomized to Hepraza
+Visit: Week 12, Day: 84, Procedures: MRI, Final Labs, Results: Liver fat reduced by 18%
+Visit: Screening, Day: -14, Procedures: Labs, MRI, Consent, Results: Eligible
+Visit: Baseline, Day: 0, Procedures: Randomization, Drug Dispensation, Results: Randomized to Hepraza
+Visit: Week 12, Day: 84, Procedures: MRI, Final Labs, Results: Liver fat reduced by 18%
