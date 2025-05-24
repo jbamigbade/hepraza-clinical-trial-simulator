@@ -1,7 +1,7 @@
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 
                                                                                                 
-                                                                                                Hepraza Clinical Trial Simulator
+                           Hepraza Clinical Trial Simulator
 
 A Java-based console application that simulates clinical trial subject enrollment, visit scheduling, and data recording for the Hepraza Phase II trial in patients with NAFLD (Non-Alcoholic Fatty Liver Disease).
 
